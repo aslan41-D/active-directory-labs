@@ -1,6 +1,6 @@
-# Active Directory Lab: Kurulum ve Saldırı Rehberi
+# Active Directory Lab: Kurulum  Rehberi
 
-Bu rehber, sıfırdan bir Active Directory lab ortamı kurmayı ve bu ortamda gerçek dünya sızma testi senaryolarını uygulamayı adım adım anlatır.
+Bu rehber, sıfırdan bir Active Directory lab ortamı kurmayı öğretir.
 
 ---
 
